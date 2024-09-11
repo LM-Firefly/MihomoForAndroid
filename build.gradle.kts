@@ -81,9 +81,7 @@ subprojects {
 
                 buildConfigField("boolean", "PREMIUM", "Boolean.parseBoolean(\"false\")")
 
-                if (isApp) {
-                    applicationIdSuffix = ".meta"
-                }
+            
             }
 
             create("meta") {
@@ -93,9 +91,7 @@ subprojects {
 
                 buildConfigField("boolean", "PREMIUM", "Boolean.parseBoolean(\"false\")")
 
-                if (isApp) {
-                    applicationIdSuffix = ".meta"
-                }
+            
             }
         }
 
