@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launch_name">Clash Meta</string>
-    <string name="application_name">Clash Meta for Android</string>
+    <string name="launch_name">Mihomo</string>
+    <string name="application_name">Mihomo for Android</string>
     <string name="stopped">停止中</string>
     <string name="tap_to_start">タップしてスタート</string>
     <string name="running">実行中</string>
@@ -75,7 +75,7 @@
     <string name="ok">確定</string>
     <string name="cancel">キャンセル</string>
     <string name="reset">リセット</string>
-    <string name="clash_logcat">Clash Logcat</string>
+    <string name="clash_logcat">Mihomo Logcat</string>
     <string name="history">履歴</string>
     <string name="logcat">Logcat</string>
     <string name="delete_all_logs">すべてのログを削除</string>
@@ -86,7 +86,7 @@
     <string name="interface_">インターフェイス</string>
     <string name="override">オーバライド</string>
     <string name="auto_restart">自動リスタート</string>
-    <string name="allow_clash_auto_restart">Clashの自動リスタートを許可</string>
+    <string name="allow_clash_auto_restart">Mihomoの自動リスタートを許可</string>
     <string name="route_system_traffic">ルートシステムトラフィック</string>
     <string name="routing_via_vpn_service">全てのトラフィックをVPNサービス経由でルーティング</string>
     <string name="vpn_service_options">VPNサービスのオプション</string>
@@ -103,7 +103,7 @@
     <string name="access_control_mode">アクセスコントロールモード</string>
     <string name="access_control_packages">アクセスコントロールリスト</string>
     <string name="access_control_packages_summary">アプリプロファイルへのアクセスを許可</string>
-    <string name="options_unavailable">Clash実行時にこのオプションは利用できません</string>
+    <string name="options_unavailable">Mihomo実行時にこのオプションは利用できません</string>
     <string name="general">一般</string>
     <string name="dns">DNS</string>
     <string name="prefer_h3">Prefer h3</string>
@@ -161,17 +161,17 @@
     <string name="select_none">クリア</string>
     <string name="import_from_clipboard">クリップボードからインポート</string>
     <string name="export_to_clipboard">クリップボードにエクスポート</string>
-    <string name="clash_meta_for_android">Clash Meta for Android</string>
+    <string name="clash_meta_for_android">Mihomo for Android</string>
     <string name="document">ドキュメント</string>
     <string name="feedback">フィードバック</string>
     <string name="sources">ソース</string>
     <string name="donate">寄付</string>
-    <string name="clash_wiki">Clash Wiki</string>
+    <string name="clash_wiki">Mihomo Wiki</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">Clash Meta Core</string>
-    <string name="tips_properties"><![CDATA[<strong>Clashプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)]]></string>
-    <string name="tips_help"><![CDATA[Clash Meta for Androidは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
+    <string name="clash_meta_core">Mihomo Core</string>
+    <string name="tips_properties"><![CDATA[<strong>Mihomoプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)]]></string>
+    <string name="tips_help"><![CDATA[Mihomo for Androidは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>]]></string>
     <string name="app">アプリ</string>
     <string name="service">サービス</string>
     <string name="dark_mode">ダークモード</string>
@@ -216,7 +216,7 @@
     <string name="version_updated">アプリを更新しました</string>
     <string name="version_updated_tips">未設定のプロファイルは、再度保存する必要があります。</string>
     <string name="mode_switch_tips">このセッションでのみ有効です</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">Mihomo Wiki</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
@@ -235,7 +235,7 @@
     <string name="geox_geoip">GeoIP URL</string>
     <string name="geox_mmdb">MMDB URL</string>
     <string name="geox_geosite">Geosite URL</string>
-    <string name="geox_files" >Geo Files</string>
+    <string name="geox_files">Geo Files</string>
     <string name="import_geoip_file">Import GeoIP Database</string>
     <string name="press_to_import">Press to import...</string>
     <string name="import_geosite_file">Import GeoSite Database</string>
