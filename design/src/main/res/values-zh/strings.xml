@@ -11,7 +11,7 @@
     <string name="bypass_private_network">绕过私有网络</string>
     <string name="bypass_private_network_summary">绕过私有网络地址</string>
     <string name="cancel">取消</string>
-    <string name="clash_logcat">Clash 日志捕捉工具</string>
+    <string name="clash_logcat">Mihomo 日志捕捉工具</string>
     <string name="create_profile">创建配置</string>
     <string name="dark_mode">暗黑模式</string>
     <string name="default_">默认</string>
@@ -63,7 +63,7 @@
     <string name="settings">设置</string>
     <string name="show_traffic">显示流量</string>
     <string name="show_traffic_summary">在通知中自动刷新流量</string>
-    <string name="allow_clash_auto_restart">允许 Clash 自动重启</string>
+    <string name="allow_clash_auto_restart">允许 Mihomo 自动重启</string>
     <string name="auto_restart">自动重启</string>
     <string name="stopped">已停止</string>
     <string name="help">帮助</string>
@@ -71,18 +71,18 @@
     <string name="update">更新</string>
     <string name="url">URL</string>
     <string name="vpn_service_options">VpnService 选项</string>
-    <string name="options_unavailable">选项在 Clash 运行时不可用</string>
+    <string name="options_unavailable">选项在 Mihomo 运行时不可用</string>
     <string name="search">查找</string>
     <string name="system_apps">系统应用</string>
     <string name="update_time">更新时间</string>
     <string name="package_name">应用包名称</string>
     <string name="install_time">安装时间</string>
-    <string name="clash_meta_for_android">Clash Meta for Android</string>
+    <string name="clash_meta_for_android">Mihomo for Android</string>
     <string name="feedback">反馈</string>
     <string name="github_issues">Github Issues</string>
-    <string name="tips_properties"><![CDATA[仅接受 <strong>Clash 配置文件</strong>(包含<strong>代理</strong>/<strong>规则</strong>)]]></string>
+    <string name="tips_properties"><![CDATA[仅接受 <strong>Mihomo 配置文件</strong>(包含<strong>代理</strong>/<strong>规则</strong>)]]></string>
     <string name="loading">载入中</string>
-    <string name="tips_help"><![CDATA[Clash Meta for Android 是一个<strong>免费软件</strong>并且我们<strong>不</strong>为其提供任何服务, <strong>请务必不要反馈非应用自身引起的问题</strong>]]></string>
+    <string name="tips_help"><![CDATA[Mihomo for Android 是一个<strong>免费软件</strong>并且我们<strong>不</strong>为其提供任何服务, <strong>请务必不要反馈非应用自身引起的问题</strong>]]></string>
     <string name="donate">捐赠</string>
     <string name="allow_all_apps">允许所有应用</string>
     <string name="allow_selected_apps">仅允许已选择的应用</string>
@@ -209,7 +209,7 @@
     <string name="mode_switch_tips">仅在本次会话中有效</string>
     <string name="import_">导入</string>
     <string name="sources">源代码</string>
-    <string name="clash_meta_core">Clash Meta 核心</string>
+    <string name="clash_meta_core">Mihomo 核心</string>
     <string name="name_server_policy">Name Server 策略</string>
     <string name="block_loopback">阻止本地回环</string>
     <string name="block_loopback_summary">阻止本地回环连接</string>
@@ -218,7 +218,7 @@
     <string name="allow_bypass_summary">允许其他应用绕过 VPN</string>
     <string name="allow_ipv6">允许Ipv6</string>
     <string name="allow_ipv6_summary">通过 VpnService 代理Ipv6流量</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">Mihomo Wiki</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
@@ -238,7 +238,7 @@
     <string name="geox_geosite">Geosite Url</string>
     <string name="prefer_h3">Prefer h3</string>
     <string name="port_whitelist">Port Whitelist</string>
-    <string name="geox_files" >Geo Files</string>
+    <string name="geox_files">Geo Files</string>
     <string name="import_geoip_file">导入 GeoIP 数据库</string>
     <string name="press_to_import">Press to import...</string>
     <string name="import_geosite_file">导入 GeoSite 数据库</string>

@@ -42,7 +42,8 @@
 
     <string name="application_broken">Приложение сломано</string>
     <string name="application_crashed">Приложение упало</string>
-    <string name="application_broken_tips">Приложению не хватает необходимых для запуска компонентов, что обычно вызвано загрузкой неполного apk.</string>
+    <string name="application_broken_tips">Приложению не хватает необходимых для запуска
+        компонентов, что обычно вызвано загрузкой неполного apk.</string>
     <string name="reinstall">Переустановить</string>
     <string name="github_releases">Релизы на GitHub</string>
 
@@ -91,7 +92,7 @@
     <string name="cancel">Отмена</string>
     <string name="reset">Сброс</string>
 
-    <string name="clash_logcat">Clash Logcat</string>
+    <string name="clash_logcat">Mihomo Logcat</string>
     <string name="history">История</string>
     <string name="logcat">Logcat</string>
 
@@ -105,10 +106,11 @@
     <string name="override">Переопределение</string>
 
     <string name="auto_restart">Автоматический перезапуск</string>
-    <string name="allow_clash_auto_restart">Разрешить Clash автоматически перезапускаться</string>
+    <string name="allow_clash_auto_restart">Разрешить Mihomo автоматически перезапускаться</string>
 
     <string name="route_system_traffic">Маршрутизировать системный трафик</string>
-    <string name="routing_via_vpn_service">Автоматически маршрутизировать весь системный трафик через VPN</string>
+    <string name="routing_via_vpn_service">Автоматически маршрутизировать весь системный трафик
+        через VPN</string>
 
     <string name="vpn_service_options">Настройки VPN</string>
     <string name="bypass_private_network">Игнорировать частные сети</string>
@@ -125,7 +127,7 @@
     <string name="access_control_packages">Приложения с контролируемым доступом</string>
     <string name="access_control_packages_summary">Настройте доступ для приложения</string>
 
-    <string name="options_unavailable">Настройки недоступны, пока Clash не будет остановлен</string>
+    <string name="options_unavailable">Настройки недоступны, пока Mihomo не будет остановлен</string>
 
     <string name="general">Основные</string>
     <string name="dns">DNS</string>
@@ -192,7 +194,7 @@
     <string name="import_from_clipboard">Импорт из буфера обмена</string>
     <string name="export_to_clipboard">Экспорт в буфер обмена</string>
 
-    <string name="clash_meta_for_android">Clash Meta для Android</string>
+    <string name="clash_meta_for_android">Mihomo для Android</string>
 
     <string name="document">Документ</string>
     <string name="feedback">Обратная связь</string>
@@ -201,15 +203,17 @@
     <string name="clash_wiki">Clash Wiki</string>
     <string name="github_issues">Сообщения об ошибках на GitHub</string>
     <string name="google_play">Google Play</string>
-    <string name="clash_meta_core">Ядро Clash Meta</string>
+    <string name="clash_meta_core">Ядро Mihomo</string>
     <string name="clash_wiki_url" translatable="false">https://github.com/Dreamacro/clash/wiki</string>
-    <string name="meta_github_url" translatable="false">https://github.com/MetaCubeX/ClashMetaForAndroid</string>
+    <string name="meta_github_url" translatable="false">
+        https://github.com/MetaCubeX/ClashMetaForAndroid</string>
     <string name="clash_meta_core_url" translatable="false">https://github.com/MetaCubeX/Clash.Meta</string>
 
-    <string name="tips_properties"><![CDATA[Принимается только <strong>конфиг Clash</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)]]></string>
-    <string name="tips_help"><![CDATA[Clash Meta для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
+    <string name="tips_properties"><![CDATA[Принимается только <strong>конфиг Mihomo</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)]]></string>
+    <string name="tips_help"><![CDATA[Mihomo для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку]]></string>
 
-    <string name="google_play_url" translatable="false">https://play.google.com/store/apps/details?id=com.github.kr328.clash</string>
+    <string name="google_play_url" translatable="false">
+        https://play.google.com/store/apps/details?id=com.github.kr328.clash</string>
 
     <string name="app">Приложение</string>
     <string name="service">Сервис</string>
@@ -267,11 +271,12 @@
     <string name="unable_to_start_vpn">Не удалось запустить компонент VPN</string>
 
     <string name="version_updated">Приложение обновлено</string>
-    <string name="version_updated_tips">Настройки были сброшены, старые профили необходимо сохранить повторно</string>
+    <string name="version_updated_tips">Настройки были сброшены, старые профили необходимо сохранить
+        повторно</string>
 
     <string name="mode_switch_tips">Действует только для текущей сессии</string>
 
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">Mihomo Wiki</string>
     <string name="clash_meta_wiki_url" translatable="false">https://docs.metacubex.one/</string>
 
     <string name="meta_features">Функции Meta</string>
@@ -294,10 +299,13 @@
     <string name="geox_geoip">GeoIP URL</string>
     <string name="geox_mmdb">MMDB URL</string>
     <string name="geox_geosite">Geosite URL</string>
-    <string name="geoip_url" translatable="false">https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat</string>
-    <string name="mmdb_url" translatable="false">https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb</string>
-    <string name="geosite_url" translatable="false">https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat</string>
-    <string name="geox_files" >Geo Files</string>
+    <string name="geoip_url" translatable="false">
+        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat</string>
+    <string name="mmdb_url" translatable="false">
+        https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb</string>
+    <string name="geosite_url" translatable="false">
+        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat</string>
+    <string name="geox_files">Geo Files</string>
     <string name="import_geoip_file">Import GeoIP Database</string>
     <string name="press_to_import">Press to import...</string>
     <string name="import_geosite_file">Import GeoSite Database</string>
